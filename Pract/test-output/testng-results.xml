@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61" started-at="2021-07-01T18:05:12 IST" finished-at="2021-07-01T18:05:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61" started-at="2021-07-01T18:05:12 IST" finished-at="2021-07-01T18:05:12 IST">
+      <class name="Java.Pract.TestNG">
+        <test-method status="PASS" signature="BeforeSuite()[pri:0, instance:Java.Pract.TestNG@370736d9]" name="BeforeSuite" is-config="true" duration-ms="20" started-at="2021-07-01T18:05:12 IST" finished-at="2021-07-01T18:05:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method status="PASS" signature="Second()[pri:0, instance:Java.Pract.TestNG@370736d9]" name="Second" is-config="true" duration-ms="0" started-at="2021-07-01T18:05:12 IST" finished-at="2021-07-01T18:05:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Second -->
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:Java.Pract.TestNG@370736d9]" name="BeforeClass" is-config="true" duration-ms="0" started-at="2021-07-01T18:05:12 IST" finished-at="2021-07-01T18:05:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:Java.Pract.TestNG@370736d9]" name="Test" duration-ms="15" started-at="2021-07-01T18:05:12 IST" finished-at="2021-07-01T18:05:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:Java.Pract.TestNG@370736d9]" name="AfterClass" is-config="true" duration-ms="5" started-at="2021-07-01T18:05:12 IST" finished-at="2021-07-01T18:05:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method status="PASS" signature="First()[pri:0, instance:Java.Pract.TestNG@370736d9]" name="First" is-config="true" duration-ms="0" started-at="2021-07-01T18:05:12 IST" finished-at="2021-07-01T18:05:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- First -->
+        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:Java.Pract.TestNG@370736d9]" name="AfterSuite" is-config="true" duration-ms="0" started-at="2021-07-01T18:05:12 IST" finished-at="2021-07-01T18:05:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- Java.Pract.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
